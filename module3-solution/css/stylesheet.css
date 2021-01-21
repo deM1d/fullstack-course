@@ -4,14 +4,6 @@
 	margin: 0;
 }
 
-h1 {
-	text-align: center;
-}
-
-h3 {
-	text-align: center;
-}
-
 #navbar-brand {
 	color: #843b62;
 	font-weight: bold;
@@ -43,7 +35,6 @@ li a {
   color: #843b62 !important;
   size: 20px;
   font-weight: bold;
-  text-align: center;
 }
 
 .content-block {
